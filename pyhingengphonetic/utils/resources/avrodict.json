@@ -1,0 +1,1003 @@
+﻿{
+  "meta": {
+    "file_name": "avrodict.json",
+    "file_description": "Provides hindi to english phonetic in JSON.",
+    "package": "pyhinenghonetic",
+    "license": "MIT 1.1 License",
+    "source": "https://bitbucket.org/SubrataSarkar32/pyhinengphonetic/",
+    "original_code": "jshinenghonetic",
+    "copyright": "Copyright (C) PA Games SSDDR (http://pagamesltd.blogspot.in/p/enigmapad.html). All Rights Reserved.",
+    "modified_by": "Subrata Sarkar <subrotosarkar32@gmail.com",
+    "updated": "20160120",
+    "encoding": "utf-8"
+  },
+  "data": {
+    "patterns": [
+      {
+        "replace": "bhl",
+        "find": "भ्ल"
+      },
+      {
+        "replace": "psh",
+        "find": "पश"
+      },
+      {
+        "replace": "bdh",
+        "find": "ब्ध"
+      },
+      {
+        "replace": "bj",
+        "find": "व्ज"
+      },
+      {
+        "replace": "bd",
+        "find": "ब्द"
+      },
+      {
+        "replace": "bb",
+        "find": "ब्ब"
+      },
+      {
+        "replace": "bl",
+        "find": "ब्ल"
+      },
+      {
+        "replace": "bh",
+        "find": "भ"
+      },
+      {
+        "replace": "vl",
+        "find": "व्ल"
+      },
+      {
+        "replace": "b",
+        "find": "ब"
+      },
+      {
+        "replace": "cNG",
+        "find": "च्ञ"
+      },
+      {
+        "replace": "cch",
+        "find": "च्छ"
+      },
+      {
+        "replace": "cc",
+        "find": "च्च"
+      },
+      {
+        "replace": "ch",
+        "find": "छ"
+      },
+      {
+        "replace": "c",
+        "find": "च"
+      },
+      {
+        "replace": "dhn",
+        "find": "ध्न"
+      },
+      {
+        "replace": "dhm",
+        "find": "ध्म"
+      },
+      {
+        "replace": "dgh",
+        "find": "द्घ"
+      },
+      {
+        "replace": "ddh",
+        "find": "द्ध"
+      },
+      {
+        "replace": "dbh",
+        "find": "द्भ"
+      },
+      {
+        "replace": "dm",
+        "find": "द्म"
+      },
+      {
+        "replace": "DD",
+        "find": "द्द"
+      },
+      {
+        "replace": "Dh",
+        "find": "ध"
+      },
+      {
+        "replace": "dg",
+        "find": "द्ग"
+      },
+      {
+        "replace": "D",
+        "find": "ड"
+      },
+      {
+        "replace": "d",
+        "find": "द"
+      },
+      {
+        "replace": "...",
+        "find": "..."
+      },
+      {
+        "replace": ".`",
+        "find": "."
+      },
+      {
+        "replace": "..",
+        "find": "॥"
+      },
+      {
+        "replace": ".",
+        "find": "।"
+      },
+      {
+        "replace": "ghn",
+        "find": "घ्न"
+      },
+      {
+        "replace": "gdh",
+        "find": "ग्ध"
+      },
+      {
+        "replace": "gN",
+        "find": "ग्ण"
+      },
+      {
+        "replace": "gn",
+        "find": "ग्न"
+      },
+      {
+        "replace": "gm",
+        "find": "ग्म"
+      },
+      {
+        "replace": "gl",
+        "find": "ग्ल"
+      },
+      {
+        "replace": "gg",
+        "find": "ज्ञ"
+      },
+      {
+        "replace": "Gg",
+        "find": "ज्ञ"
+      },
+      {
+        "replace": "gh",
+        "find": "घ"
+      },
+      {
+        "replace": "g",
+        "find": "ग"
+      },
+      {
+        "replace": "hN",
+        "find": "ह्ण"
+      },
+      {
+        "replace": "hn",
+        "find": "ह्न"
+      },
+      {
+        "replace": "hm",
+        "find": "ह्म"
+      },
+      {
+        "replace": "hl",
+        "find": "ह्ल"
+      },
+      {
+        "replace": "h",
+        "find": "ह"
+      },
+      {
+        "replace": "jjh",
+        "find": "ज्झ"
+      },
+      {
+        "replace": "jh",
+        "find": "झ"
+      },
+      {
+        "replace": "jj",
+        "find": "ज्ज"
+      },
+      {
+        "replace": "j",
+        "find": "ज"
+      },
+      {
+        "replace": "kkhN",
+        "find": "क्ष्ण"
+      },
+      {
+        "replace": "kkhm",
+        "find": "क्ष्म"
+      },
+      {
+        "replace": "kxm",
+        "find": "क्ष्भ"
+      },
+      {
+        "replace": "kkh",
+        "find": "क्ष"
+      },
+      {
+        "replace": "ksh",
+        "find": "कश"
+      },
+      {
+        "replace": "kk",
+        "find": "क्क"
+      },
+      {
+        "replace": "kT",
+        "find": "क्ट"
+      },
+      {
+        "replace": "kt",
+        "find": "क्त"
+      },
+      {
+        "replace": "kl",
+        "find": "क्ल"
+      },
+      {
+        "replace": "ks",
+        "find": "क्स"
+      },
+      {
+        "replace": "kh",
+        "find": "ख"
+      },
+      {
+        "replace": "k",
+        "find": "क"
+      },
+      {
+        "replace": "lbh",
+        "find": "ल्भ"
+      },
+      {
+        "replace": "ldh",
+        "find": "ल्ध"
+      },
+      {
+        "replace": "lkh",
+        "find": "लख"
+      },
+      {
+        "replace": "lgh",
+        "find": "लघ"
+      },
+      {
+        "replace": "lph",
+        "find": "लफ"
+      },
+      {
+        "replace": "lk",
+        "find": "ल्क"
+      },
+      {
+        "replace": "lg",
+        "find": "ल्ग"
+      },
+      {
+        "replace": "lT",
+        "find": "ल्ट"
+      },
+      {
+        "replace": "lD",
+        "find": "ल्ड"
+      },
+      {
+        "replace": "lp",
+        "find": "ल्प"
+      },
+      {
+        "replace": "lm",
+        "find": "ल्म"
+      },
+      {
+        "replace": "ll",
+        "find": "ल्ल"
+      },
+      {
+        "replace": "lb",
+        "find": "ल्ब"
+      },
+      {
+        "replace": "l",
+        "find": "ल"
+      },
+      {
+        "replace": "mth",
+        "find": "म्थ"
+      },
+      {
+        "replace": "mph",
+        "find": "म्फ"
+      },
+      {
+        "replace": "mbh",
+        "find": "म्भ"
+      },
+      {
+        "replace": "mpl",
+        "find": "मप्ल"
+      },
+      {
+        "replace": "mn",
+        "find": "म्न"
+      },
+      {
+        "replace": "mp",
+        "find": "म्प"
+      },
+      {
+        "replace": "mm",
+        "find": "म्म"
+      },
+      {
+        "replace": "ml",
+        "find": "म्ल"
+      },
+      {
+        "replace": "mb",
+        "find": "म्ब"
+      },
+      {
+        "replace": "m",
+        "find": "म"
+      },
+      {
+        "replace": "shunya",
+        "find": "०"
+      },
+      {
+        "replace": "ekk",
+        "find": "१"
+      },
+      {
+        "replace": "do",
+        "find": "२"
+      },
+      {
+        "replace": "teen",
+        "find": "३"
+      },
+      {
+        "replace": "char",
+        "find": "४"
+      },
+      {
+        "replace": "panch",
+        "find": "५"
+      },
+      {
+        "replace": "chei",
+        "find": "६"
+      },
+      {
+        "replace": "sat",
+        "find": "७"
+      },
+      {
+        "replace": "aat",
+        "find": "८"
+      },
+      {
+        "replace": "noou",
+        "find": "९"
+      },
+      {
+        "replace": "NgkSh",
+        "find": "ङ्क्ष"
+      },
+      {
+        "replace": "NGch",
+        "find": "ञ्छ"
+      },
+      {
+        "replace": "Nggh",
+        "find": "ङ्घ"
+      },
+      {
+        "replace": "Ngkh",
+        "find": "ङ्ख"
+      },
+      {
+        "replace": "NGjh",
+        "find": "ञ्झ"
+      },
+      {
+        "replace": "ngOU",
+        "find": "ङ्गौ"
+      },
+      {
+        "replace": "ngOI",
+        "find": "ङ्गै"
+      },
+      {
+        "replace": "NGc",
+        "find": "ञ्च"
+      },
+      {
+        "replace": "Ngk",
+        "find": "ङ्क"
+      },
+      {
+        "replace": "Ngx",
+        "find": "ङ्ष"
+      },
+      {
+        "replace": "Ngg",
+        "find": "ङ्ग"
+      },
+      {
+        "replace": "Ngm",
+        "find": "ङ्म"
+      },
+      {
+        "replace": "NGj",
+        "find": "ञ्ज"
+      },
+      {
+        "replace": "ndh",
+        "find": "न्ध"
+      },
+      {
+        "replace": "nTh",
+        "find": "न्ठ"
+      },
+      {
+        "replace": "NTh",
+        "find": "ण्ठ"
+      },
+      {
+        "replace": "nth",
+        "find": "न्थ"
+      },
+      {
+        "replace": "nkh",
+        "find": "ग़्ख"
+      },
+      {
+        "replace": "ngo",
+        "find": "ग़्ग"
+      },
+      {
+        "replace": "nga",
+        "find": "ग़्गा"
+      },
+      {
+        "replace": "ngi",
+        "find": "ग़्गि"
+      },
+      {
+        "replace": "ngI",
+        "find": "ग़्गी"
+      },
+      {
+        "replace": "ngu",
+        "find": "ग़्गु"
+      },
+      {
+        "replace": "ngU",
+        "find": "ग़्गू"
+      },
+      {
+        "replace": "nge",
+        "find": "ग़्गे"
+      },
+      {
+        "replace": "ngO",
+        "find": "ग़्गो"
+      },
+      {
+        "replace": "NDh",
+        "find": "ण्ढ"
+      },
+      {
+        "replace": "nsh",
+        "find": "नश"
+      },
+      {
+        "replace": "Ngr",
+        "find": "ङर"
+      },
+      {
+        "replace": "NGr",
+        "find": "ञर"
+      },
+      {
+        "replace": "ngr",
+        "find": "ंर"
+      },
+      {
+        "replace": "Ng",
+        "find": "ङ"
+      },
+      {
+        "replace": "NG",
+        "find": "ञ"
+      },
+      {
+        "replace": "ng",
+        "find": "ं"
+      },
+      {
+        "replace": "nn",
+        "find": "न्न"
+      },
+      {
+        "replace": "NN",
+        "find": "ण्ण"
+      },
+      {
+        "replace": "Nn",
+        "find": "ण्न"
+      },
+      {
+        "replace": "nm",
+        "find": "न्म"
+      },
+      {
+        "replace": "Nm",
+        "find": "ण्म"
+      },
+      {
+        "replace": "nd",
+        "find": "न्द"
+      },
+      {
+        "replace": "nT",
+        "find": "न्ट"
+      },
+      {
+        "replace": "NT",
+        "find": "ण्ट"
+      },
+      {
+        "replace": "nD",
+        "find": "न्ड"
+      },
+      {
+        "replace": "ND",
+        "find": "ण्ड"
+      },
+      {
+        "replace": "nt",
+        "find": "न्त"
+      },
+      {
+        "replace": "ns",
+        "find": "न्स"
+      },
+      {
+        "replace": "n",
+        "find": "न"
+      },
+      {
+        "replace": "N",
+        "find": "ण"
+      },
+      {
+        "replace": "OI",
+        "find": "ै"
+      },
+      {
+        "replace": "OU",
+        "find": "ौ"
+      },
+      {
+        "replace": "O",
+        "find": "ो"
+      },
+      {
+        "replace": "OI",
+        "find": "ऐ"
+      },
+      {
+        "replace": "OU",
+        "find": "औ"
+      },
+      {
+        "replace": "O",
+        "find": "ओ"
+      },
+      {
+        "replace": "phl",
+        "find": "फ्ल"
+      },
+      {
+        "replace": "pT",
+        "find": "प्ट"
+      },
+      {
+        "replace": "pt",
+        "find": "प्त"
+      },
+      {
+        "replace": "pn",
+        "find": "प्न"
+      },
+      {
+        "replace": "pp",
+        "find": "प्प"
+      },
+      {
+        "replace": "pl",
+        "find": "प्ल"
+      },
+      {
+        "replace": "ps",
+        "find": "प्स"
+      },
+      {
+        "replace": "ph",
+        "find": "फ"
+      },
+      {
+        "replace": "p",
+        "find": "प"
+      },
+      {
+        "replace": "rri",
+        "find": "ृ"
+      },
+      {
+        "replace": "rri",
+        "find": "ऋ"
+      },
+      {
+        "replace": "rrZ",
+        "find": "रर्य"
+      },
+      {
+        "replace": "rZ",
+        "find": "र्य"
+      },
+      {
+        "replace": "rZ",
+        "find": "्र्य"
+      
+      },
+      {
+        "replace": "rr",
+        "find": "रर"
+      },
+      {
+        "replace": "rr",
+        "find": "र्"
+      },
+      {
+        "replace": "rr",
+        "find": "्रर"
+      },
+      {
+        "replace": "Rg",
+        "find": "ड़्ग"
+      },
+      {
+        "replace": "Rh",
+        "find": "ढ़"
+      },
+      {
+        "replace": "R",
+        "find": "ड़"
+      },
+      {
+        "replace": "r",
+        "find": "र"
+      },
+      {
+        "replace": "r",
+        "find": "्र"
+      },
+      {
+        "replace": "shch",
+        "find": "श्छ"
+      },
+      {
+        "replace": "ShTh",
+        "find": "ष्ठ"
+      },
+      {
+        "replace": "Shph",
+        "find": "ष्फ"
+      },
+      {
+        "replace": "skl",
+        "find": "स्क्ल"
+      },
+      {
+        "replace": "skh",
+        "find": "स्ख"
+      },
+      {
+        "replace": "sth",
+        "find": "स्थ"
+      },
+      {
+        "replace": "sph",
+        "find": "स्फ"
+      },
+      {
+        "replace": "shc",
+        "find": "श्च"
+      },
+      {
+        "replace": "sht",
+        "find": "श्त"
+      },
+      {
+        "replace": "shn",
+        "find": "श्न"
+      },
+      {
+        "replace": "shm",
+        "find": "श्म"
+      },
+      {
+        "replace": "shl",
+        "find": "श्ल"
+      },
+      {
+        "replace": "Shk",
+        "find": "ष्क"
+      },
+      {
+        "replace": "ShT",
+        "find": "ष्ट"
+      },
+      {
+        "replace": "ShN",
+        "find": "ष्ण"
+      },
+      {
+        "replace": "Shp",
+        "find": "ष्प"
+      },
+      {
+        "replace": "Shm",
+        "find": "ष्म"
+      },
+      {
+        "replace": "spl",
+        "find": "स्प्ल"
+      },
+      {
+        "replace": "sk",
+        "find": "स्क"
+      },
+      {
+        "replace": "sT",
+        "find": "स्ट"
+      },
+      {
+        "replace": "st",
+        "find": "स्त"
+      },
+      {
+        "replace": "sn",
+        "find": "स्न"
+      },
+      {
+        "replace": "sp",
+        "find": "स्प"
+      },
+      {
+        "replace": "sm",
+        "find": "स्म"
+      },
+      {
+        "replace": "sl",
+        "find": "स्ल"
+      },
+      {
+        "replace": "sh",
+        "find": "श"
+      },
+      {
+        "replace": "Sh",
+        "find": "ष"
+      },
+      {
+        "replace": "s",
+        "find": "स"
+      },
+      {
+        "replace": "oo",
+        "find": "ु"
+      },
+      {
+        "replace": "oo",
+        "find": "उ"
+      },
+      {
+        "replace": "o",
+        "find": "ो"
+      },
+      {
+        "replace": "oZ",
+        "find": "अ्य"
+      },
+      {
+        "replace": "oa",
+        "find": "अ"
+      },
+      {
+        "replace": "tth",
+        "find": "त्थ"
+      },
+      {
+        "replace": "t",
+        "find": "त्"
+      },
+      {
+        "replace": "TT",
+        "find": "ट्ट"
+      },
+      {
+        "replace": "Tm",
+        "find": "ट्म"
+      },
+      {
+        "replace": "Th",
+        "find": "ठ"
+      },
+      {
+        "replace": "tn",
+        "find": "त्न"
+      },
+      {
+        "replace": "tm",
+        "find": "त्म"
+      },
+      {
+        "replace": "th",
+        "find": "थ"
+      },
+      {
+        "replace": "tt",
+        "find": "त्त"
+      },
+      {
+        "replace": "T",
+        "find": "ट"
+      },
+      {
+        "replace": "t",
+        "find": "त"
+      },
+      {
+        "replace": "aZ",
+        "find": "अ्या"
+      },
+      {
+        "replace": "a",
+        "find": "ा"
+      },
+      {
+        "replace": "a",
+        "find": "ा"
+      },
+      {
+        "replace": "aa",
+        "find": "आ"
+      },
+      {
+        "replace": "a",
+        "find": "या"
+      },
+      {
+        "replace": "i",
+        "find": "ि"
+      },
+      {
+        "replace": "i",
+        "find": "इ"
+      },
+      {
+        "replace": "I",
+        "find": "ी"
+      },
+      {
+        "replace": "I",
+        "find": "ई"
+      },
+      {
+        "replace": "u",
+        "find": "ु"
+      },
+      {
+        "replace": "u",
+        "find": "उ"
+      },
+      {
+        "replace": "U",
+        "find": "ू"
+      },
+      {
+        "replace": "U",
+        "find": "ऊ"
+      },
+      {
+        "replace": "ee",
+        "find": "ी"
+      },
+      {
+        "replace": "ee",
+        "find": "ई"
+      },
+      {
+        "replace": "e",
+        "find": "॔"
+      },
+      {
+        "replace": "e",
+        "find": "े"
+      },
+      {
+        "replace": "e",
+        "find": "ए"
+      },
+      {
+        "replace": "z",
+        "find": "य"
+      },
+      {
+        "replace": "Z",
+        "find": "्य"
+      },
+      {
+        "replace": "y",
+        "find": "इय"
+      },
+      {
+        "replace": "w",
+        "find": "ओय"
+      },
+      {
+        "replace": "w",
+        "find": "्व"
+      },
+      {
+        "replace": "x",
+        "find": "एक्स"
+      },
+      {
+        "replace": ":",
+        "find": ":"
+      },
+      {
+        "replace": ":",
+        "find": "ः"
+      },
+      {
+        "replace": "^",
+        "find": "^"
+      },
+      {
+        "replace": ",,",
+        "find": "্‌"
+      },
+      {
+        "replace": ",",
+        "find": ","
+      },
+      {
+        "replace": "$",
+        "find": "₹"
+      }
+                          ],
+  "vowel": "अािीुूृेैोौ",
+  "consonant": "",
+  "casesensitive": "",
+  "number": "०१२३४५६७८९"
+  }
+}

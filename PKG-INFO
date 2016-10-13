@@ -1,0 +1,44 @@
+Metadata-Version: 1.1
+Name: pyhinengphonetic
+Version: 1.0.0
+Author: Subrata Sarkar
+Author-email: subrotosarkar32 at gmail com
+Home-page: https://bitbucket.org/SubrataSarkar32/pyhinengphonetic/
+Download-url: https://bitbucket.org/SubrataSarkar32/pyhinengphonetic/
+Summary: Python implementation to convert hindi to phonetic
+Description: Python implementation of hindi to english phonetic in hindi.
+        
+        -------------------------------------------------------------------------------
+        Copyright (C) 2016 Subrata Sarkar <subrotosarkar32@gmail.com>
+        original by:- Subrata Sarkar <subrotosarkar32@gmail.com>
+        
+        This file is part of pyhinengphonetic.
+        
+        pyhinengphonetic is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+        
+        pyhinengphonetic is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+        
+        You should have received a copy of the GNU General Public License
+        along with pyhinengphonetic. If not, see <http://www.gnu.org/licenses/>.
+        
+        This tool converts unicode data to speakable pyttsx data
+           using convert_to_pyttsx_speakable() and converts unicode data to speakable
+           phonetic using convert_to_speakable_phonetic() and speak hindi
+           using speak()
+        Example:convert_to_pyttsx_speakable(u'\u0915\u0948\u0938\u0947 \u0939\u0947')
+        speak(u'\u0915\u0948\u0938\u0947 \u0939\u0947')
+        Requires simplejson>=3.0,pyttsx>=1.1
+Keywords: hindi to phonetic
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.5
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
