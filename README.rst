@@ -38,6 +38,37 @@ Usage
     conparse.convert_to_pyttsx_speakable(u'\u0915\u0948\u0938\u0947 \u0939\u0947')
     conparse.speak(u'\u0915\u0948\u0938\u0947 \u0939\u0947')
 
+Installation
+============
+
+Using Git:
+
+::
+
+    $ git clone https://github.com/SubrataSarkar32/pyhinengphonetic.git
+    $ cd pyhinengphonetic
+    $ sudo python setup.py install
+
+
+Using Pip:
+
+::
+
+    $ sudo pip install pyhinengphonetic
+
+Contributing
+============
+
+**Fork** -> **Do your changes** -> **Send a Pull Request**. It's that
+easy!
+
+Coding style follows `PEP 8`_ along with `PEP 257`_ for Docstring
+conventions.
+
+Also, if you find any bugs, please report them in the Issues queue. As
+always, before you report any new issue, please check that it has not
+been already posted by someone else.
+
 .. _Avro Phonetic: http://omicronlab.com
 .. _Mehdi Hasan Khan: https://github.com/omicronlab
 .. _Rifat Nabi: https://github.com/torifat
