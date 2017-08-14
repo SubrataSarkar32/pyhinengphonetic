@@ -29,6 +29,15 @@ Copyright (C) 2016 Subrata Sarkar <subrtosarkar32@gmail.com>.
 
 The full license text can be found in ``LICENSE``.
 
+Usage
+=====
+
+::
+
+    from pyhinengphonetic import conparse
+    conparse.convert_to_pyttsx_speakable(u'\u0915\u0948\u0938\u0947 \u0939\u0947')
+    conparse.speak(u'\u0915\u0948\u0938\u0947 \u0939\u0947')
+
 .. _Avro Phonetic: http://omicronlab.com
 .. _Mehdi Hasan Khan: https://github.com/omicronlab
 .. _Rifat Nabi: https://github.com/torifat
