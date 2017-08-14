@@ -101,8 +101,9 @@ def convert_to_speakable_phonetic(gitre=u''):
 def speak(text=u''):
     import pyttsx
     engine = pyttsx.init()
+    engine.setProperty('volume', 1.0)
     rate = engine.getProperty('rate')
-    engine.setProperty('rate', rate-120)    
+    engine.setProperty('rate', rate-110)    
     speakman1=convert_to_pyttsx_speakable(gitre=text)
     engine.say(speakman1)
     engine.runAndWait()

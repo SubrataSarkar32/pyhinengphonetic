@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: pyhinengphonetic
-Version: 1.0.0
+Version: 0.1.0
 Summary: Python implementation to convert hindi to phonetic
 Home-page: https://bitbucket.org/SubrataSarkar32/pyhinengphonetic/
 Author: Subrata Sarkar
@@ -10,7 +10,9 @@ Description: ==============
         pyhinengphonetic
         ==============
         Python implementation to convert unicode hindi text to speable english text for pyttsx and to english phonetic
-
+        Below is license of 
+        pyAvroPhonetic
+         from which it has been derived
         License
         =======
         
@@ -18,20 +20,20 @@ Description: ==============
         
         ::
         
-            This file is part of pybengengphonetic.
+            This file is part of pyhinengphonetic.
         
-            pybengengphonetic is free software: you can redistribute it and/or modify
+            pyhinengphonetic is free software: you can redistribute it and/or modify
             it under the terms of the GNU General Public License as published by
             the Free Software Foundation, either version 3 of the License, or
             (at your option) any later version.
         
-            pybengengphonetic is distributed in the hope that it will be useful,
+            pyhinengphonetic is distributed in the hope that it will be useful,
             but WITHOUT ANY WARRANTY; without even the implied warranty of
             MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
             GNU General Public License for more details.
         
             You should have received a copy of the GNU General Public License
-            along with pybengengphonetic. If not, see <http://www.gnu.org/licenses/>.
+            along with pyhinengphonetic. If not, see <http://www.gnu.org/licenses/>.
         
         The full license text can be found in ``LICENSE``.
         
@@ -47,9 +49,8 @@ Description: ==============
            :target: https://travis-ci.org/kaustavdm/pyAvroPhonetic
         .. _Md Enzam Hossain: https://github.com/ienzam
         .. _Sarim Khan: https://github.com/sarim
-        Below is license of 
-        pyAvroPhonetic
-         from which it has been derived       
+        
+        Below is the lisence of pyAvroPhonetic:
         ==============
         pyAvroPhonetic
         ==============

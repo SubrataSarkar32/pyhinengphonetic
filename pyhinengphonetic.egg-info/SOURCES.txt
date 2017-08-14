@@ -9,6 +9,7 @@ pyhinengphonetic.egg-info/SOURCES.txt
 pyhinengphonetic.egg-info/dependency_links.txt
 pyhinengphonetic.egg-info/requires.txt
 pyhinengphonetic.egg-info/top_level.txt
+pyhinengphonetic.egg-info/zip-safe
 pyhinengphonetic/utils/__init__.py
 pyhinengphonetic/utils/config.py
 pyhinengphonetic/utils/count.py
